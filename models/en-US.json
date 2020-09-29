@@ -1,0 +1,267 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "astronomy picture",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "eighteen ",
+                "synonyms": [
+                  "two thousand eighteen"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "nineteen",
+                "synonyms": [
+                  "two thousand nineteen",
+                  "last year"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "twenty",
+                "synonyms": [
+                  "two thousand twenty",
+                  "this year"
+                ]
+              }
+            }
+          ],
+          "name": "year"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "january"
+              }
+            },
+            {
+              "name": {
+                "value": "february"
+              }
+            },
+            {
+              "name": {
+                "value": "march"
+              }
+            },
+            {
+              "name": {
+                "value": "may"
+              }
+            },
+            {
+              "name": {
+                "value": "april"
+              }
+            },
+            {
+              "name": {
+                "value": "june"
+              }
+            },
+            {
+              "name": {
+                "value": "july"
+              }
+            },
+            {
+              "name": {
+                "value": "august",
+                "synonyms": [
+                  "last month"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "september",
+                "synonyms": [
+                  "this month"
+                ]
+              }
+            }
+          ],
+          "name": "month"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "twenty three",
+                "synonyms": [
+                  "twenty third"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "twenty two",
+                "synonyms": [
+                  "twenty second"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "twenty one",
+                "synonyms": [
+                  "twenty first"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "ten",
+                "synonyms": [
+                  "tenth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "nine",
+                "synonyms": [
+                  "nineth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "eigth",
+                "synonyms": [
+                  "eigthth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "seven",
+                "synonyms": [
+                  "seventh"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "six",
+                "synonyms": [
+                  "sixth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "five",
+                "synonyms": [
+                  "fifth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "four",
+                "synonyms": [
+                  "fourth"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "three",
+                "synonyms": [
+                  "third"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "two",
+                "synonyms": [
+                  "second"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "one",
+                "synonyms": [
+                  "the first one",
+                  "first"
+                ]
+              }
+            }
+          ],
+          "name": "day"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "check"
+              }
+            }
+          ],
+          "name": "name"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "explanation"
+              }
+            }
+          ],
+          "name": "explanation"
+        }
+      ],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "7"
+}
