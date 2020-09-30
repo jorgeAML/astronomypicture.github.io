@@ -27,7 +27,6 @@
         "title": "Lightning over Colorado",
         "explanation": "Have you ever watched a lightning storm in awe?  Join the crowd. Oddly, details about how lightning is produced remains a topic of research."
     },
-    //updated september 30
     "twenty-september-twenty eight": {
         "year": "Twenty",
         "month": "September",
@@ -35,5 +34,13 @@
         "title": "Filaments of the Cygnus Loop",
         "explanation": "What lies at the edge of an expanding supernova? Subtle and delicate in appearance, these ribbons of shocked interstellar gas are part of a blast wave at the expanding edge of a violent stellar explosion that would have been easily visible to humans during the late stone age, about 20,000 years ago. The featured image was recorded by the Hubble Space Telescope and is a closeup of the outer edge of a supernova remnant known as the Cygnus Loop or Veil Nebula. The filamentary shock front is moving toward the top of the frame at about 170 kilometers per second, while glowing in light emitted by atoms of excited hydrogen gas. The distances to stars thought to be interacting with the Cygnus Loop have recently been found by the Gaia mission to be about 2400 light years distant. The whole Cygnus Loop spans six full Moons across the sky, corresponding to about 130 light years, and parts can be seen with a small telescope toward the constellation of the Swan (Cygnus).",
         "url": "https://apod.nasa.gov/apod/image/2009/CygnusFilament_HubbleShatz_1472.jpg"
+    },
+    "twenty-september-twenty seven": {
+        "year": "Twenty",
+        "month": "September",
+        "day": "Twenty seven",
+        "title": "Lightning over Colorado",
+        "explanation": "Have you ever watched a lightning storm in awe? Join the crowd. Oddly, details about how lightning is produced remains a topic of research. What is known is that updrafts carry light ice crystals into collisions with larger and softer ice balls, causing the smaller crystals to become positively charged. After enough charge becomes separated, the rapid electrical discharge that is lightning occurs. Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun. The resulting shock wave starts supersonically and decays into the loud sound known as thunder. Lightning bolts are common in clouds during rainstorms, and on average 44 lightning bolts occur on the Earth every second. Pictured, over 60 images were stacked to capture the flow of lightning-producing storm clouds in July over Colorado Springs, Colorado, USA.",
+        "copyright": "Joe Randall"
     }
 }
