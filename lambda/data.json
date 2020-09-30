@@ -27,6 +27,15 @@
         "title": "Lightning over Colorado",
         "explanation": "Have you ever watched a lightning storm in awe?  Join the crowd. Oddly, details about how lightning is produced remains a topic of research."
     },
+    "twenty-september-thirty": {
+        "year": "Twenty",
+        "month": "September",
+        "day": "Thirty",
+        "title": "Eagle Nebula Pillars",
+        "explanation": "Yes, but have you ever experienced the Eagle Nebula with your ears ? The famous nebula, M16, is best known for the feast it gives your eyes, highlighting bright young stars forming deep inside dark towering structures. These light-years long columns of cold gas and dust are some 6,500 light-years distant toward the constellation of the Serpent (Serpens). Sculpted and eroded by the energetic ultraviolet light and powerful winds from M16's cluster of massive stars, the cosmic pillars themselves are destined for destruction. But the turbulent environment of star formation within M16, whose spectacular details are captured in this combined Hubble (visible) and Chandra (X-ray) image, is likely similar to the environment that formed our own Sun. In the featured video, listen for stars and dust sounding off as the line of sonification moves left to right, with vertical position determining pitch.",
+        "url": "https://youtu.be/DzrCEm1ZBRY",
+        "copyright": "NASA, CXC, SAO, K. Arcand, M. Russo & A. Santaguida"
+    },
     "twenty-september-twenty eight": {
         "year": "Twenty",
         "month": "September",
