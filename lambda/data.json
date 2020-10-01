@@ -73,5 +73,14 @@
         "explanation": "The Great Spiral Galaxy in Andromeda (also known as M31), a mere 2.5 million light-years distant, is the closest large spiral to our own Milky Way. Andromeda is visible to the unaided eye as a small, faint, fuzzy patch, but because its surface brightness is so low, casual skygazers can't appreciate the galaxy's impressive extent in planet Earth's sky. This entertaining composite image compares the angular size of the nearby galaxy to a brighter, more familiar celestial sight. In it, a deep exposure of Andromeda, tracing beautiful blue star clusters in spiral arms far beyond the bright yellow core, is combined with a typical view of a nearly full Moon. Shown at the same angular scale, the Moon covers about 1/2 degree on the sky, while the galaxy is clearly several times that size. The deep Andromeda exposure also includes two bright satellite galaxies, M32 and M110 (below and right).",
         "url": "https://apod.nasa.gov/apod/image/2009/m31abtpmoon.jpg",
         "copyright": "Adam Block and Tim Puckett"
+    },
+    "twenty-september-twenty four": {
+        "year": "Twenty",
+        "month": "September",
+        "day": "Twenty four",
+        "title": "Enceladus in Infrared",
+        "explanation": "One of our Solar System's most tantalizing worlds, icy Saturnian moon Enceladus appears in these detailed hemisphere views from the Cassini spacecraft. In false color, the five panels present 13 years of infrared image data from Cassini's Visual and Infrared Mapping Spectrometer and Imaging Science Subsystem. Fresh ice is colored red, and the most dramatic features look like long gashes in the 500 kilometer diameter moon's south polar region. They correspond to the location of tiger stripes, surface fractures that likely connect to an ocean beneath the Enceladus ice shell. The fractures are the source of the moon's icy plumes that continuously spew into space. The plumes were discovered by by Cassini in 2005. Now, reddish hues in the northern half of the leading hemisphere view also indicate a recent resurfacing of other regions of the geologically active moon, a world that may hold conditions suitable for life.",
+        "url": "https://apod.nasa.gov/apod/image/2009/PIA24023_fig1_1050.jpg",
+        "copyright": "VIMS Team, SSI, U. Arizona, U. Nantes, CNRS, ESA, NASA"
     }
 }
