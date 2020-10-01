@@ -51,7 +51,8 @@
         "day": "Twenty eight",
         "title": "Filaments of the Cygnus Loop",
         "explanation": "What lies at the edge of an expanding supernova? Subtle and delicate in appearance, these ribbons of shocked interstellar gas are part of a blast wave at the expanding edge of a violent stellar explosion that would have been easily visible to humans during the late stone age, about 20,000 years ago. The featured image was recorded by the Hubble Space Telescope and is a closeup of the outer edge of a supernova remnant known as the Cygnus Loop or Veil Nebula. The filamentary shock front is moving toward the top of the frame at about 170 kilometers per second, while glowing in light emitted by atoms of excited hydrogen gas. The distances to stars thought to be interacting with the Cygnus Loop have recently been found by the Gaia mission to be about 2400 light years distant. The whole Cygnus Loop spans six full Moons across the sky, corresponding to about 130 light years, and parts can be seen with a small telescope toward the constellation of the Swan (Cygnus).",
-        "url": "https://apod.nasa.gov/apod/image/2009/CygnusFilament_HubbleShatz_1472.jpg"
+        "url": "https://apod.nasa.gov/apod/image/2009/CygnusFilament_HubbleShatz_1472.jpg",
+        "copyright": "Leo Shatz"
     },
     "twenty-september-twenty seven": {
         "year": "Twenty",
@@ -59,6 +60,16 @@
         "day": "Twenty seven",
         "title": "Lightning over Colorado",
         "explanation": "Have you ever watched a lightning storm in awe? Join the crowd. Oddly, details about how lightning is produced remains a topic of research. What is known is that updrafts carry light ice crystals into collisions with larger and softer ice balls, causing the smaller crystals to become positively charged. After enough charge becomes separated, the rapid electrical discharge that is lightning occurs. Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun. The resulting shock wave starts supersonically and decays into the loud sound known as thunder. Lightning bolts are common in clouds during rainstorms, and on average 44 lightning bolts occur on the Earth every second. Pictured, over 60 images were stacked to capture the flow of lightning-producing storm clouds in July over Colorado Springs, Colorado, USA.",
+        "url": "https://apod.nasa.gov/apod/image/2009/LightningStorm_Randall_1080.jpg",
         "copyright": "Joe Randall"
+    },
+    "twenty-september-twenty six": {
+        "year": "Twenty",
+        "month": "September",
+        "day": "Twenty six",
+        "title": "Moon Pairs and the Synodic Month",
+        "explanation": "Observe the Moon each night and its visible sunlit portion will gradually change. In phases progressing from New Moon to Full Moon to New Moon again, a lunar cycle or synodic month is completed in about 29.5 days. They look full, but top left to bottom right these panels do show the range of lunar phases for a complete synodic month during August 2019 from Ragusa, Sicily, Italy, planet Earth. For this lunar cycle project the panels organize images of the lunar phases in pairs. Each individual image is paired with another image separated by about 15 days, or approximately half a synodic month. As a result the opposite sunlit portions complete the lunar disk and the shadow line at the boundary of lunar night and day, the terminator, steadily marches across the Moon's familiar nearside. For extra credit, what lunar phase would you pair with the Moon tonight?",
+        "url": "https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg",
+        "copyright": "Marcella Giulia Pace"
     }
 }
