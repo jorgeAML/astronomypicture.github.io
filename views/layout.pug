@@ -1,0 +1,47 @@
+doctype html
+html(lang='en')
+    head
+        title Astronomy app
+        
+        block links
+            meta(name="viewport" content="width=device-width, initial-scale=1.0")
+            link(rel="stylesheet" href="./main.css")
+            link(rel="stylesheet" href="./css/nav.css")
+            link(href="https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Bungee&display=swap" rel="stylesheet")
+            script(src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous")
+
+        body
+        block navs
+            - var mainLink = 'Astronomy app'
+            - var link1 = 'About'
+            - var link2 = 'Archive'
+            - var link3 = 'Topics'
+            - var link4 = 'Project'
+
+            nav.nav-wrapper
+                div(class='nav')
+                    div(class='sub-navs')
+                        .sub-btn 
+                            a(href='#' class='s') #{mainLink.toUpperCase()}
+                        .sub-btn
+                            a(href='#') #{link1.toUpperCase()}
+                        .sub-btn
+                            a(href='#') #{link2.toUpperCase()}
+                        .sub-btn
+                            a(href='#') #{link3.toUpperCase()}
+                        .sub-btn
+                            a(href='#') #{link4.toUpperCase()}
+            
+            section(class='container')
+                #api
+        //block shapeId01
+            section.wrapper
+                .shapeId01
+                    svg(data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none")
+                        path.shape-fill(d="M1200 120L0 16.48 0 0 1200 0 1200 120z")
+            section.logo
+                .logoContainer
+                    img(src="./images/nasa-logo-web-rgb.png")
+                    h4 The Astronomy Picture of the Day
+</html>
+script(src="main.js")
